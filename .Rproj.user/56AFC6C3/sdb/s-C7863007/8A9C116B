@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1429470426570.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8A9C116B",
+    "lastKnownWriteTime" : 14918311212154995,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "avginterval2",
+        "contentUrl" : "content?title=avginterval2&file=430685cd44ea47449126ea31ea48e2a6.htm",
+        "displayedObservations" : 576,
+        "displayedVariables" : 3,
+        "totalObservations" : 576,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
